@@ -5,4 +5,4 @@ ryu controller version 4.32
 mininet version 2.2.2
 # you will find requirement file with this project
 # Executing the scrpit in mininet using the following command: 
-sudo mn --custom sdn_mininet.py --topo irs2020 --controller=remote
+sudo mn --custom SDN_mininet.py --topo irs2020 --controller=remote
